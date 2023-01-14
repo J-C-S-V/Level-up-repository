@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J-C-S-V
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on (right now just playing around with Github
+- 👀 I'm interested in programming
+- 🌱 I'm currently learning Web development
+- 💞️ I'm actively looking for web development job opportunities that align with my skills and experience.
 - 📫 You can contact me at juansan1993@hotmail.com
 
 <!---
